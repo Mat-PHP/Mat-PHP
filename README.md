@@ -10,7 +10,8 @@
 
 - 🎓 Técnico (Cursando) em **Análise e Desenvolvimento de Sistemas** - *SENAI*
 - 🎓 (Cursando) em **Engenharia de Software** *(EAD)* - *Unimetrocamp*
-- 🎓 (Cursando) **Análise e Desenvolvimento de Software** *(Presencial)* - *Anhanguera*
+- 🎓 (Cursando) **Análise e Desenvolvimento de Software** *(Presencial)* - *Unimetrocamp*
+- 🎓 (Completo) **informatica** *(Presencial)* - *Microcamp*
 
 ---
 
