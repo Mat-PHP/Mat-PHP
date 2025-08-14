@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Mateus!
 
 🎂 Tenho **26 anos**  
-💼 Atualmente trabalho na **Bosch** como **Aprendiz de Solução Digital**  
+💼 Atualmente trabalho na **Bosch** como **Deselvovimento De Sistemas**  
 💻 Apaixonado por tecnologia e desenvolvimento de sistemas!
 
 ---
