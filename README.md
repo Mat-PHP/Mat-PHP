@@ -9,7 +9,7 @@
 ## 🎓 Formação Acadêmica- Cursando
 
 - 🎓 Técnico (Cursando) em **Análise e Desenvolvimento de Sistemas** - *SENAI*
-- 🎓 (Cursando) em **Engenharia de Software** *(EAD)* - *Unimetrocamp*
+- 🎓 (Completo) em **Engenharia de Software** *(EAD)* - *Unimetrocamp*
 - 🎓 (Completo) **informatica** *(Presencial)* - *Microcamp*
 
 ---
