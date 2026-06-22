@@ -8,7 +8,7 @@
 
 ## 🎓 Formação Acadêmica- Cursando
 
-- 🎓 Técnico (Cursando) em **Análise e Desenvolvimento de Sistemas** - *SENAI*
+- 🎓 Técnico (Concluido) em **Tecnico Desenvolvimento de Sistemas** - *SENAI*
 - 🎓 (Completo) em **Engenharia de Software** *(EAD)* - *Unimetrocamp*
 - 🎓 (Completo) **informatica** *(Presencial)* - *Microcamp*
 
