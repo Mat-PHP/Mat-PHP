@@ -9,7 +9,7 @@
 ## 🎓 Formação Acadêmica- Cursando
 
 - 🎓 Técnico (Concluido) em **Tecnico Desenvolvimento de Sistemas** - *SENAI*
-🎓- Graduação (Cursando) Inteligencia Artificial Unigran
+🎓- Graduação (Cursando) **Inteligencia Artificial Unigran**
 - 🎓 (Completo) **informatica** *(Presencial)* - *Microcamp*
 
 ---
