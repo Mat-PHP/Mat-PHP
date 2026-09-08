@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mateus!
 
-🎂 Tenho **26 anos**  
+🎂 Tenho **27 anos**  
 💼 Atualmente trabalho na **Bosch** como **Desenvolvimento De Sistemas**  
 💻 Apaixonado por tecnologia e desenvolvimento de sistemas!
 
@@ -9,7 +9,7 @@
 ## 🎓 Formação Acadêmica- Cursando
 
 - 🎓 Técnico (Concluido) em **Tecnico Desenvolvimento de Sistemas** - *SENAI*
-- 🎓 (Completo) em **Engenharia de Software** *(EAD)* - *Unimetrocamp*
+🎓- Graduação (Cursando) Inteligencia Artificial Unigran
 - 🎓 (Completo) **informatica** *(Presencial)* - *Microcamp*
 
 ---
